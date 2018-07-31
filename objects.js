@@ -1,4 +1,4 @@
-var playlist = {
-  Kanye West : "Dark Fantasy",
-  Kendrick Lamar: "Humble",
-}
+var playlist = new Object ({
+  Kanye : "Dark Fantasy",
+  Kendrick: "Humble",
+});
